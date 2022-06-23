@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textCaseConvertor/static/css/main.a66775f7.css",
+    "main.js": "/textCaseConvertor/static/js/main.b6c5d899.js",
+    "static/js/787.db33642e.chunk.js": "/textCaseConvertor/static/js/787.db33642e.chunk.js",
+    "index.html": "/textCaseConvertor/index.html",
+    "main.a66775f7.css.map": "/textCaseConvertor/static/css/main.a66775f7.css.map",
+    "main.b6c5d899.js.map": "/textCaseConvertor/static/js/main.b6c5d899.js.map",
+    "787.db33642e.chunk.js.map": "/textCaseConvertor/static/js/787.db33642e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a66775f7.css",
+    "static/js/main.b6c5d899.js"
+  ]
+}
