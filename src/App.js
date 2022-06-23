@@ -57,7 +57,7 @@ function App() {
     <>
      {/* //ROUTERS DOESN'T WORK WELL IN GITHUB PAGES SO WE WILL NOT BE USING ROUTERS HERE THATS WHY I REMOVED ABOUT PAGES */}
 
-        <Navbar title="Text -CASE-Convertor"  item2="Contact Us"  mode={mode} toggleMode={toggleMode} />
+        <Navbar title="Text-Case-Convertor"  item2="Contact Us"  mode={mode} toggleMode={toggleMode} />
         <Alert alert={alert} />
         <TextForm textArea="enter the text here" heading="Text Convertor" showAlert={showAlert} />
         
